@@ -1,0 +1,4 @@
+＃相关指令：
+初始化项目：gradle install
+执行项目：gradlew jettyRun
+从gitee上拉取项目到本地：git clone + 项目的ssh地址
